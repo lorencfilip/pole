@@ -1,5 +1,3 @@
-print("Szukam dzieci w sklepie")
-
 cislo = int(1)
 cislo_float = float(3.22)
 text = str("string je sada znaků, např: pro text")
